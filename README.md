@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 # 💫 About Me:
 My name is Christian, born and raised in Stockholm, Sweden.
 I'm currently studying JavaScript development while also pursuing my passion as a part-time entrepreneur.
