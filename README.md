@@ -13,5 +13,7 @@ I'm always in the pursuit of learning new things and expanding my knowledge.<br>
   <img alt="github-snake" src="https://raw.githubusercontent.com/christian1429/christian1429/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian1429&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian1429&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
