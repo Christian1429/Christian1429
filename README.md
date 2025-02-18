@@ -1,5 +1,3 @@
-![Header](./git.png)
-
 My name is Christian, born and raised in Stockholm, Sweden.<br>
 I'm currently studying JavaScript development while also pursuing my passion as a part-time entrepreneur.<br>
 I'm always in the pursuit of learning new things and expanding my knowledge.<br>
