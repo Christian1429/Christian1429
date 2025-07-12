@@ -1,6 +1,5 @@
 My name is Christian, born and raised in Stockholm, Sweden.<br>
-I'm currently studying JavaScript development while also pursuing my passion as a part-time entrepreneur.<br>
-I'm always in the pursuit of learning new things and expanding my knowledge.<br>
+JavaScript developer<br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
