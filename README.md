@@ -1,4 +1,4 @@
-Hi, I'm Christian — a JavaScript Developer from Stockholm, Sweden.<br>
+Hi, I'm Christian a JavaScript Developer from Stockholm, Sweden.<br>
 Passionate about technology, code, and building things for the web.
 
 # 💻 Tech Stack:
