@@ -8,9 +8,11 @@ Passionate about technology, code, and building things for the web.
 
 <br>
 <br>
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Christian1429/edit/output/github-snake.svg)
-![github-contribution-grid-snake-dark](https://raw.githubusercontent.com/Christian1429/edit/output/github-snake-dark.svg?palette=github-dark)
-![github-contribution-grid-snake-ocean](https://raw.githubusercontent.com/Christian1429/edit/output/ocean.gif)
+
+![github-contribution-grid-snake](https://christian1429.github.io/edit/github-snake.svg)
+![github-contribution-grid-snake-dark](https://christian1429.github.io/edit/github-snake-dark.svg?palette=github-dark)
+![github-contribution-grid-snake-ocean](https://christian1429.github.io/edit/ocean.gif)
+
 
 
 <p align="center">
