@@ -8,13 +8,6 @@ Passionate about technology, code, and building things for the web.
 
 <br>
 <br>
-
-![github-contribution-grid-snake](https://christian1429.github.io/edit/github-snake.svg)
-![github-contribution-grid-snake-dark](https://christian1429.github.io/edit/github-snake-dark.svg?palette=github-dark)
-![github-contribution-grid-snake-ocean](https://christian1429.github.io/edit/ocean.gif)
-
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian1429&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
