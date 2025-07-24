@@ -1,5 +1,6 @@
 Hi, I'm Christian a JavaScript Developer from Stockholm, Sweden.<br>
-Passionate about technology, code, and building things for the web.
+I'm passionate about technology, coding, and building for the web.
+I work across the full stack and enjoy understanding the entire development flow, from frontend to backend and everything around it.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
