@@ -10,5 +10,6 @@ I work across the full stack and enjoy understanding the entire development flow
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian1429&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian1429&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ />
 </p>
