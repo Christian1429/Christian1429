@@ -1,4 +1,4 @@
-Hi, I'm Christian a JavaScript Developer from Stockholm, Sweden.<br>
+Hi, I'm Christian a Javascript developer from Stockholm, Sweden.<br>
 I'm passionate about technology, coding, and building for the web.<br>
 I work across the full stack and enjoy understanding the entire development flow, from frontend to backend and everything around it.
 
